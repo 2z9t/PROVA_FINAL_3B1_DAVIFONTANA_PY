@@ -25,3 +25,7 @@ if opcao == "Tabela":
 
 elif opcao == "Gráficos":
     st.bar_chart(df_filtrado, use_container_width=True)
+
+st.text("Fonte: https://www.gov.br/inep ")
+
+st.text("OBS: Sentiremos saudades Jana")
